@@ -1,3 +1,4 @@
-Place the GDS file with the following nomenclature in this folder: D8_Mission Silicon.gds
+# Mission Silicon GDS file. 
 
-Also, update the README.md file to include the pin list and pin description.
+Please find our pin list below. <br> 
+Pin List: https://docs.google.com/spreadsheets/d/1QIKwUgCwU4hS-kvt9IlpOSDSLcxc8Z3aP-msJ_BANeE/edit?usp=sharing
